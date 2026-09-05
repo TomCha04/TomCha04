@@ -4,7 +4,7 @@ Computer Science student at Temple University, graduating December 2026. I'm loo
 
 ## Right now
 
-I'm the full-stack lead developer at Aluna Labs, a pre-MVP SaaS content platform, where I review pull requests, debug React/FastAPI code, and work on backend security across a multi-tenant system. I'm also going through The Odin Project to improve my TML/CSS/JS skills, and I'm applying to new-grad software engineering roles.
+I'm the full-stack lead developer at Aluna Labs, a pre-MVP SaaS content platform, where I review pull requests, debug React/FastAPI code, and work on backend security across a multi-tenant system. I'm also going through The Odin Project to improve my HTML/CSS/JS skills, and I'm applying to new-grad software engineering roles.
 
 ## Background
 
